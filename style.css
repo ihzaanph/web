@@ -1,0 +1,16 @@
+ h1{
+                font-size:55px;
+                font-family: cursive;
+                color : tomato;
+            }
+            .c{
+                background-color: blue;
+                background-image: url("sample.jpg");
+                background-size:100% ;
+            }
+            .b{
+                background-color: blue;
+                font-family: serif;
+                color: white;
+            }
+
